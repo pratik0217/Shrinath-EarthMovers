@@ -4,3 +4,7 @@
     max-width: 1280px;
     margin: auto;
 }
+
+.clicked {
+    display: none;
+}
